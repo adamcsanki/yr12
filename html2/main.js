@@ -1,2 +1,2 @@
-var degree = 2 &#8451;
+var degree = 2;
 document.querySelector('span.number_highlighted').innerHTML = degree;
